@@ -1,0 +1,97 @@
+GO.ID	Term	Annotated	Significant	Expected	weight01_pval	branch
+GO:0009768	photosynthesis, light harvesting in phot...	15	8	0.85	4.6e-07	BP
+GO:0071555	cell wall organization	173	26	9.83	7.9e-06	BP
+GO:0009269	response to desiccation	6	4	0.34	0.00014	BP
+GO:0015995	chlorophyll biosynthetic process	45	9	2.56	0.00032	BP
+GO:0015979	photosynthesis	204	36	11.59	0.00092	BP
+GO:0010411	xyloglucan metabolic process	19	6	1.08	0.00149	BP
+GO:0006809	nitric oxide biosynthetic process	10	4	0.57	0.00164	BP
+GO:0010207	photosystem II assembly	11	4	0.62	0.00246	BP
+GO:0045454	cell redox homeostasis	75	11	4.26	0.00318	BP
+GO:0009769	photosynthesis, light harvesting in phot...	2	2	0.11	0.00322	BP
+GO:0071435	potassium ion export	2	2	0.11	0.00322	BP
+GO:1902265	abscisic acid homeostasis	2	2	0.11	0.00322	BP
+GO:0018298	protein-chromophore linkage	67	10	3.81	0.00424	BP
+GO:0006662	glycerol ether metabolic process	21	5	1.19	0.00551	BP
+GO:0009767	photosynthetic electron transport chain	40	10	2.27	0.00629	BP
+GO:0045493	xylan catabolic process	8	3	0.45	0.00823	BP
+GO:0009637	response to blue light	40	7	2.27	0.00828	BP
+GO:0031022	nuclear migration along microfilament	3	2	0.17	0.00929	BP
+GO:0010345	suberin biosynthetic process	9	3	0.51	0.01182	BP
+GO:0070413	trehalose metabolism in response to stre...	9	3	0.51	0.01182	BP
+GO:0010193	response to ozone	17	4	0.97	0.01353	BP
+GO:0006782	protoporphyrinogen IX biosynthetic proce...	10	3	0.57	0.01619	BP
+GO:0010206	photosystem II repair	10	3	0.57	0.01619	BP
+GO:0010119	regulation of stomatal movement	30	6	1.7	0.01647	BP
+GO:0042546	cell wall biogenesis	82	8	4.66	0.01659	BP
+GO:2000785	regulation of autophagosome assembly	4	2	0.23	0.01789	BP
+GO:0009416	response to light stimulus	348	33	19.77	0.01971	BP
+GO:0005992	trehalose biosynthetic process	11	3	0.62	0.02133	BP
+GO:1901002	positive regulation of response to salt ...	11	3	0.62	0.02133	BP
+GO:0009773	photosynthetic electron transport in pho...	12	3	0.68	0.02727	BP
+GO:0051103	DNA ligation involved in DNA repair	5	2	0.28	0.0287	BP
+GO:0070588	calcium ion transmembrane transport	5	2	0.28	0.0287	BP
+GO:0009816	defense response to bacterium, incompati...	25	5	1.42	0.03307	BP
+GO:0009409	response to cold	148	14	8.41	0.03467	BP
+GO:0009753	response to jasmonic acid	90	10	5.11	0.0363	BP
+GO:0009651	response to salt stress	229	21	13.01	0.03705	BP
+GO:0009835	fruit ripening	6	2	0.34	0.04146	BP
+GO:0010224	response to UV-B	35	5	1.99	0.04596	BP
+GO:0055114	oxidation-reduction process	616	50	34.99	0.04817	BP
+GO:0009695	jasmonic acid biosynthetic process	15	3	0.85	0.04973	BP
+GO:0031409	pigment binding	14	7	0.75	3.1e-06	MF
+GO:0008559	xenobiotic-transporting ATPase activity	15	7	0.81	5.5e-06	MF
+GO:0016168	chlorophyll binding	50	10	2.69	0.00027	MF
+GO:0016762	xyloglucan:xyloglucosyl transferase acti...	9	4	0.48	0.00084	MF
+GO:0003825	alpha,alpha-trehalose-phosphate synthase...	6	3	0.32	0.00274	MF
+GO:0003950	NAD+ ADP-ribosyltransferase activity	6	3	0.32	0.00274	MF
+GO:0004805	trehalose-phosphatase activity	6	3	0.32	0.00274	MF
+GO:0009044	xylan 1,4-beta-xylosidase activity	6	3	0.32	0.00274	MF
+GO:0050464	nitrate reductase (NADPH) activity	2	2	0.11	0.00289	MF
+GO:0019904	protein domain specific binding	49	9	2.64	0.00366	MF
+GO:0004565	beta-galactosidase activity	14	4	0.75	0.00537	MF
+GO:0009703	nitrate reductase (NADH) activity	3	2	0.16	0.00835	MF
+GO:0046556	alpha-L-arabinofuranosidase activity	3	2	0.16	0.00835	MF
+GO:0043546	molybdopterin cofactor binding	3	2	0.16	0.00835	MF
+GO:0004497	monooxygenase activity	80	11	4.3	0.01278	MF
+GO:0015035	protein disulfide oxidoreductase activit...	38	6	2.04	0.01492	MF
+GO:0004742	dihydrolipoyllysine-residue acetyltransf...	4	2	0.22	0.01611	MF
+GO:0005544	calcium-dependent phospholipid binding	4	2	0.22	0.01611	MF
+GO:0016984	ribulose-bisphosphate carboxylase activi...	4	2	0.22	0.01611	MF
+GO:0001653	peptide receptor activity	4	2	0.22	0.01611	MF
+GO:0016874	ligase activity	152	13	8.18	0.01769	MF
+GO:0020037	heme binding	100	11	5.38	0.01812	MF
+GO:0003700	transcription factor activity, sequence-...	399	31	21.46	0.01935	MF
+GO:0046910	pectinesterase inhibitor activity	12	3	0.65	0.02364	MF
+GO:0004791	thioredoxin-disulfide reductase activity	21	4	1.13	0.02383	MF
+GO:0008061	chitin binding	5	2	0.27	0.0259	MF
+GO:0003910	DNA ligase (ATP) activity	5	2	0.27	0.0259	MF
+GO:0010277	chlorophyllide a oxygenase [overall] act...	5	2	0.27	0.0259	MF
+GO:0050660	flavin adenine dinucleotide binding	56	7	3.01	0.02648	MF
+GO:0047134	protein-disulfide reductase activity	22	4	1.18	0.02793	MF
+GO:0016705	oxidoreductase activity, acting on paire...	99	10	5.33	0.02886	MF
+GO:0001053	plastid sigma factor activity	6	2	0.32	0.03748	MF
+GO:0004674	protein serine/threonine kinase activity	452	32	24.31	0.04355	MF
+GO:0030246	carbohydrate binding	112	10	6.02	0.04437	MF
+GO:0009535	chloroplast thylakoid membrane	304	47	16.48	1.7e-08	CC
+GO:0005618	cell wall	180	24	9.76	2.4e-06	CC
+GO:0048046	apoplast	106	19	5.75	3.4e-06	CC
+GO:0010287	plastoglobule	47	12	2.55	5.1e-06	CC
+GO:0009522	photosystem I	43	16	2.33	1.3e-05	CC
+GO:0009538	photosystem I reaction center	5	4	0.27	4.1e-05	CC
+GO:0009523	photosystem II	62	16	3.36	0.00013	CC
+GO:0009941	chloroplast envelope	351	33	19.03	0.00014	CC
+GO:0000325	plant-type vacuole	79	9	4.28	0.00021	CC
+GO:0009654	photosystem II oxygen evolving complex	17	5	0.92	0.00164	CC
+GO:0000795	synaptonemal complex	6	3	0.33	0.0028	CC
+GO:0009341	beta-galactosidase complex	6	3	0.33	0.0028	CC
+GO:0098807	chloroplast thylakoid membrane protein c...	6	6	0.33	0.00288	CC
+GO:0009517	PSII associated light-harvesting complex...	2	2	0.11	0.00293	CC
+GO:0030093	chloroplast photosystem I	2	2	0.11	0.00293	CC
+GO:0005576	extracellular region	350	39	18.97	0.00369	CC
+GO:0009543	chloroplast thylakoid lumen	40	7	2.17	0.00515	CC
+GO:0016021	integral component of membrane	2002	128	108.52	0.00868	CC
+GO:0019898	extrinsic component of membrane	51	8	2.76	0.01936	CC
+GO:0009574	preprophase band	5	2	0.27	0.02628	CC
+GO:0009579	thylakoid	389	58	21.09	0.02932	CC
+GO:0009570	chloroplast stroma	389	40	21.09	0.02969	CC

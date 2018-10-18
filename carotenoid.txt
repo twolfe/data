@@ -1,0 +1,10 @@
+comp12906_c0_seq1
+comp14284_c0_seq1
+comp15882_c0_seq1
+comp1678_c0_seq1
+comp17503_c0_seq1
+comp19994_c0_seq1
+comp2428_c0_seq1
+comp28749_c0_seq1
+comp6066_c0_seq1
+comp8286_c0_seq1

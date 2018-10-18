@@ -1,0 +1,16 @@
+comp747_c0_seq1
+comp954_c0_seq1
+comp1281_c0_seq1
+comp1285_c0_seq1
+comp1678_c0_seq1
+comp1798_c0_seq1
+comp2518_c0_seq1
+comp3991_c0_seq1
+comp4990_c0_seq1
+comp6914_c0_seq1
+comp9254_c0_seq1
+comp10448_c0_seq1
+comp11887_c0_seq1
+comp16957_c0_seq1
+comp17503_c0_seq1
+comp21205_c0_seq1

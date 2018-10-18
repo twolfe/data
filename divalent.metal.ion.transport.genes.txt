@@ -1,0 +1,16 @@
+comp1798_c0_seq1
+comp19690_c0_seq1
+comp24533_c0_seq1
+comp31066_c0_seq1
+comp3279_c0_seq1
+comp3410_c0_seq1
+comp3991_c0_seq1
+comp4990_c0_seq1
+comp5086_c0_seq1
+comp6163_c0_seq1
+comp6167_c0_seq1
+comp6543_c0_seq1
+comp6880_c0_seq1
+comp871_c0_seq1
+comp8947_c0_seq1
+comp954_c0_seq1
